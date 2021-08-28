@@ -1,15 +1,15 @@
 # ɱყɬɧ ℘ıɛƈɛ
 
-**RELEASE + PASSWORD (SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST)**
+**NEW PASSWORD + SWORDS CAN NOW BE USED IN FARMING AND KILLING CMDS (SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST)**
 
 INFO/UPDATES:
 
--Every kill command is melee stat based.
+-Every kill command is now able to use swords.
 -Godmode is always enabled so you can't get killed.
 
 NOTES: 
 
-Unequip any melee tool before using kill commands. (except InstKill Mob thats just setting a mob hp to 0 when mob is hit)
+Unequip any melee/sword tools before using kill commands. (except InstKill Mob thats just setting a mob hp to 0 when mob is hit)
 Farm Mobs auto instkills mobs.
 Any Seabeast spawned will be labled upon opening the script.
 
